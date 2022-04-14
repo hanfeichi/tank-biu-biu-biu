@@ -7,6 +7,3 @@ Due to the need to load image and audio resources, it may take a few seconds for
 Users can upload bug reports to branches of this project on Github, and our developer team will detect and fix them. Sending the content to 597452062@qq.com is also feasible.
 
 There are currently no known bugs in this project. If there are any, they will be updated in this document and fixed as soon as possible.
-
-...
-
