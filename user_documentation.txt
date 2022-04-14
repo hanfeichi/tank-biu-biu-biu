@@ -1,0 +1,11 @@
+This is a single player game called "tank biu biu biu". Players win by protecting the base and eliminating enemy tanks.
+
+This game is developed for computers and is compatible with windows, mac, and linux operating systems. Users only need to download the .exe file in this derictory to the local device.
+
+Due to the need to load image and audio resources, it may take a few seconds for the program to open after clicking on it. The basic game mechanics are "W", "A", "S", "D" to control the direction, and the space bar to fire shells. Other game mechanics are waiting for players to explore by themselves, considering that it is not difficult.
+
+Users can upload bug reports to branches of this project on Github, and our developer team will detect and fix them. Sending the content to 597452062@qq.com is also feasible.
+
+There are currently no known bugs in this project. If there are any, they will be updated in this document and fixed as soon as possible.
+
+
