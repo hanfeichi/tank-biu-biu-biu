@@ -5,12 +5,19 @@ jobs:
       xcode: 12.5.1
     steps:
       - checkout 
+      - run: echo "main"
+  test:
+    macos:
+      xcode: 12.5.1
+    steps:
+      - checkout
       - run: echo "hello world"
 workflows:
   version: 2
   build_and_test:
     jobs:
       - build-macos
+      - test
 
 
 
